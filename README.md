@@ -1,2 +1,5 @@
-# lablan-technologies-website
-lablan-technologies-website
+
+# Lablan Technologies Website
+
+Deployed with GitHub Actions and Flask.
+
